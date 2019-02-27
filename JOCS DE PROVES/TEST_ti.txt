@@ -1,0 +1,1265 @@
+# autor:  Roger Generoso Masos
+client
+Pere Peret Pintor
+platja
+natura
+pintar parets
+*
+client
+Pere de la cullera
+platja
+piscina
+mar
+gambes
+muntanya
+urbanisme
+*
+client
+Roger Generoso Masós
+muntanya
+piscina
+oci
+cultura
+arquitectura
+*
+client
+Amat Martínez Vilà
+estany
+piscina
+mar
+platja
+*
+client
+Adrià Orellana Cruañas
+oci
+musica
+platja
+*
+visita
+Pere Peret Pintor
+Sagrada Familia
+2015-04-11
+*
+lloc
+Barcelona
+41.388916,2.174606
+Europe/Madrid
+*
+lloc
+Moscou
+55.749792,37.632495
+Asia/Krasnoyarsk
+*
+lloc
+Girona
+41.9725798,2.8245466
+Europe/Madrid
+*
+lloc
+La Bisbal
+42.3773743,3.0726468000000295
+Europe/Madrid
+*
+lloc
+Madrid
+40.4381311,-3.8196193
+Europe/Madrid
+*
+lloc
+Roma
+41.9102415,12.3959154
+Europe/Madrid
+*
+allotjament
+Moscow Marriott Grand Hotel
+55.756732,37.613672
+Asia/Krasnoyarsk
+luxe
+250
+piscina
+jacuzzi
+sauna
+pinguins
+relax
+*
+lloc visitable
+Plaça Roja
+55.7539303,37.620795
+Asia/Krasnoyarsk
+02:45
+25.50
+historia
+monuments
+*
+April 1 - September 30: 09:00-20:00
+October 1 - October 31: 09:00-19:00
+March 1 - March 31: 09:00-19:00
+November 1 - February 29: 09:00-18:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+allotjament
+Hotel Can Pistraus
+41.418787,2.232285
+Europe/Madrid
+luxe
+65
+platja
+piscina
+jacuzzi
+*
+lloc visitable
+Sagrada Familia
+41.405076,2.174349
+Europe/Madrid
+01:30
+15.50
+religio
+arquitectura
+urbanisme
+*
+April 1 - September 30: 09:00-20:00
+October 1 - October 31: 09:00-19:00
+March 1 - March 31: 09:00-19:00
+November 1 - February 29: 09:00-18:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+lloc visitable
+Port Olimpic
+41.405076,2.174349
+Europe/Madrid
+01:22
+23.30
+pesca
+natura
+mar
+ocea
+peixos
+vaixells
+*
+April 1 - September 30: 09:00-20:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+lloc visitable
+Passeig Marimon Asprer
+41.9630712,3.0378751
+Europe/Madrid
+00:25
+2.20
+Cultura
+Natura
+Bar
+Oci
+*
+April 1 - September 30: 09:00-20:00
+October 1 - October 31: 09:00-19:00
+March 1 - March 31: 09:00-19:00
+November 1 - February 29: 09:00-18:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+allotjament
+Fonda Pilar
+41.9600714,3.040411
+Europe/Madrid
+luxe
+250
+piscina
+jacuzzi
+sauna
+relax
+*
+lloc visitable
+Terracotta Museu
+41.9630712,3.0378751
+Europe/Madrid
+01:00
+25.44
+muntanya
+piscina
+oci
+cultura
+arquitectura
+*
+April 1 - September 30: 09:00-20:00
+October 1 - October 31: 09:00-19:00
+March 1 - March 31: 09:00-19:00
+November 1 - February 29: 09:00-18:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+lloc visitable
+Cul de la Lleona
+41.9630712,3.0378751
+Europe/Madrid
+00:25
+0
+arquitectura
+monument
+selfie
+postureig
+*
+April 1 - September 30: 09:00-20:00
+October 1 - October 31: 09:00-19:00
+March 1 - March 31: 09:00-19:00
+November 1 - February 29: 09:00-18:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+lloc visitable
+La Cibeles
+41.9630712,3.0378751
+Europe/Madrid
+01:00
+12.00
+aigua
+futbol
+celebracio
+estultura
+art
+*
+April 1 - September 30: 09:00-20:00
+October 1 - October 31: 09:00-19:00
+March 1 - March 31: 09:00-19:00
+November 1 - February 29: 09:00-18:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+lloc visitable
+Coliseu Roma
+41.9630712,3.0378751
+Europe/Madrid
+01:00
+12.00
+romans
+celebracio
+estultura
+historia
+art
+*
+April 1 - September 30: 09:00-20:00
+October 1 - October 31: 09:00-19:00
+March 1 - March 31: 09:00-19:00
+November 1 - February 29: 09:00-18:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+allotjament
+Westin Palace Madrid
+41.9630712,3.0378751
+Europe/Madrid
+luxe
+65
+vistes
+jacuzzi
+piscina
+relax
+*
+allotjament
+Hotel-Pizzeria "La Vita"
+41.9630712,3.0378751
+Europe/Madrid
+luxe
+65
+vistes
+jacuzzi
+piscina
+relax
+menjar
+pizza
+*
+associar lloc
+Port Olimpic
+Barcelona
+*
+associar lloc
+Sagrada Familia
+Barcelona
+*
+associar lloc
+Moscow Marriott Grand Hotel
+Moscou
+*
+associar lloc
+Plaça Roja
+Moscou
+*
+associar lloc
+Fonda Pilar
+La Bisbal
+*
+associar lloc
+Terracotta Museu
+La Bisbal
+*
+associar lloc
+Passeig Marimon Asprer
+La Bisbal
+*
+assignar lloc
+Cul de la Lleona
+Girona
+*
+associar lloc
+Hotel Can Pistraus
+Girona
+*
+associar lloc
+Coliseu Roma
+Roma
+*
+associar lloc
+Hotel-Pizzeria "La Vita"
+Roma
+*
+associar lloc
+La Cibeles
+Madrid
+*
+associar lloc
+Westin Palace Madrid
+Madrid
+*
+associar lloc
+Port Olimpic
+Barcelona
+*
+associar lloc
+Sagrada Familia
+Barcelona
+*
+transport indirecte
+Barcelona
+Moscou
+avio
+00:10
+00:10
+2017-04-11
+12:46
+00:35
+10.50
+13:46
+00:35
+10.50
+2017-04-12
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-13
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-14
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-15
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-16
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+*
+transport indirecte
+Moscou
+Barcelona
+avio
+00:10
+00:10
+2017-04-11
+12:46
+00:35
+10.50
+13:46
+00:35
+10.50
+2017-04-12
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-13
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-14
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-15
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-16
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+*
+transport indirecte
+Madrid
+Roma
+avio
+00:10
+00:10
+2017-04-11
+12:46
+00:35
+10.50
+13:46
+00:35
+10.50
+2017-04-12
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-13
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-14
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-15
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-16
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+*
+transport indirecte
+Roma
+Madrid
+avio
+00:10
+00:10
+2017-04-11
+12:46
+00:35
+10.50
+13:46
+00:35
+10.50
+2017-04-12
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-13
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-14
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-15
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-16
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+*
+transport indirecte
+Roma
+Girona
+avio
+00:10
+00:10
+2017-04-11
+12:46
+00:35
+10.50
+13:46
+00:35
+10.50
+2017-04-12
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-13
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-14
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-15
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-16
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+*
+transport indirecte
+Girona
+Roma
+avio
+00:10
+00:10
+2017-04-11
+12:46
+00:35
+10.50
+13:46
+00:35
+10.50
+2017-04-12
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-13
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-14
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-15
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-16
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+*
+transport indirecte
+Girona
+La Bisbal
+bus
+00:10
+00:10
+2017-04-11
+12:46
+00:35
+10.50
+13:46
+00:35
+10.50
+2017-04-12
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-13
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-14
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-15
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-16
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+*
+transport indirecte
+La Bisbal
+Girona
+Bus
+00:10
+00:10
+2017-04-11
+12:46
+00:35
+10.50
+13:46
+00:35
+10.50
+2017-04-12
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-13
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-14
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-15
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-16
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+*
+transport indirecte
+Barcelona
+Madrid
+AVE
+00:10
+00:10
+2017-04-11
+12:46
+02:35
+10.50
+13:46
+02:35
+10.50
+2017-04-12
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-13
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-14
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-15
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-16
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+*
+transport indirecte
+Madrid
+Barcelona
+AVE
+00:10
+00:10
+2017-04-11
+12:46
+02:35
+10.50
+13:46
+02:35
+10.50
+2017-04-12
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-13
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-14
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-15
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-16
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+*
+transport indirecte
+Moscou
+Girona
+Globus Aerostatic
+00:10
+00:10
+2017-04-11
+12:46
+02:35
+10.50
+13:46
+02:35
+10.50
+2017-04-12
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-13
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-14
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-15
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-16
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+*
+transport indirecte
+Girona
+Moscou
+Globus Aerostatic
+00:10
+00:10
+2017-04-11
+12:46
+02:35
+10.50
+13:46
+02:35
+10.50
+2017-04-12
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-13
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-14
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-15
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+2017-04-16
+10:16
+02:35
+10.50
+14:16
+02:35
+10.50
+17:16
+02:35
+10.50
+*
+transport indirecte
+Barcelona
+Girona
+Bus
+00:10
+00:10
+2017-04-11
+12:46
+00:35
+10.50
+13:46
+00:35
+10.50
+2017-04-12
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-13
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-14
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-15
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-16
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+*
+transport indirecte
+Girona
+Barcelona
+Bus
+00:10
+00:10
+2017-04-11
+12:46
+00:35
+10.50
+13:46
+00:35
+10.50
+2017-04-12
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-13
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-14
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-15
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+2017-04-16
+10:16
+00:35
+10.50
+14:16
+00:35
+10.50
+17:16
+00:35
+10.50
+*
+viatge
+2017-04-11
+08:00
+10
+5000
+luxe
+Roger Generoso Masós
+Amat Martínez Vilà
+Adrià Orellana Cruañas
+*
+Sagrada Familia
+Passeig Marimon Asprer
+Plaça Roja
+La Cibeles
+Coliseu Roma
+Port Olimpic
+*
+ruta barata
+ruta satisfactoria
+ruta curta
+*

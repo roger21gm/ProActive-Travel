@@ -1,0 +1,546 @@
+# autor:  Roger Generoso Masos
+client
+Pere Peret Pintor
+platja
+natura
+pintar parets
+*
+client
+Pere de la cullera
+platja
+piscina
+mar
+gambes
+muntanya
+urbanisme
+*
+client
+Roger Generoso Masós
+muntanya
+piscina
+oci
+cultura
+arquitectura
+*
+client
+Amat Martínez Vilà
+estany
+piscina
+mar
+platja
+*
+client
+Adrià Orellana Cruañas
+oci
+musica
+platja
+*
+visita
+Pere Peret Pintor
+Sagrada Familia
+2015-04-11
+*
+allotjament
+Moscow Marriott Grand Hotel
+55.756732,37.613672
+Asia/Krasnoyarsk
+luxe
+250
+piscina
+jacuzzi
+sauna
+pinguins
+relax
+*
+lloc visitable
+Plaça Roja
+55.7539303,37.620795
+Asia/Krasnoyarsk
+02:45
+25.50
+historia
+monuments
+*
+April 1 - September 30: 09:00-20:00
+October 1 - October 31: 09:00-19:00
+March 1 - March 31: 09:00-19:00
+November 1 - February 29: 09:00-18:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+allotjament
+Hotel Can Pistraus
+41.418787,2.232285
+Europe/Madrid
+luxe
+65
+platja
+piscina
+jacuzzi
+*
+lloc visitable
+Sagrada Familia
+41.405076,2.174349
+Europe/Madrid
+01:30
+15.50
+religio
+arquitectura
+urbanisme
+*
+April 1 - September 30: 09:00-20:00
+October 1 - October 31: 09:00-19:00
+March 1 - March 31: 09:00-19:00
+November 1 - February 29: 09:00-18:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+lloc visitable
+Port Olimpic
+41.405076,2.174349
+Europe/Madrid
+01:22
+23.30
+pesca
+natura
+mar
+ocea
+peixos
+vaixells
+*
+April 1 - September 30: 09:00-20:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+lloc visitable
+Passeig Marimon Asprer
+41.9630712,3.0378751
+Europe/Madrid
+00:25
+2.20
+Cultura
+Natura
+Bar
+Oci
+*
+April 1 - September 30: 09:00-20:00
+October 1 - October 31: 09:00-19:00
+March 1 - March 31: 09:00-19:00
+November 1 - February 29: 09:00-18:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+allotjament
+Fonda Pilar
+41.9600714,3.040411
+Europe/Madrid
+luxe
+250
+piscina
+jacuzzi
+sauna
+relax
+*
+lloc visitable
+Terracotta Museu
+41.9630712,3.0378751
+Europe/Madrid
+01:00
+25.44
+muntanya
+piscina
+oci
+cultura
+arquitectura
+*
+April 1 - September 30: 09:00-20:00
+October 1 - October 31: 09:00-19:00
+March 1 - March 31: 09:00-19:00
+November 1 - February 29: 09:00-18:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+lloc visitable
+Cul de la Lleona
+41.9630712,3.0378751
+Europe/Madrid
+00:25
+0
+arquitectura
+monument
+selfie
+postureig
+*
+April 1 - September 30: 09:00-20:00
+October 1 - October 31: 09:00-19:00
+March 1 - March 31: 09:00-19:00
+November 1 - February 29: 09:00-18:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+lloc visitable
+La Cibeles
+41.9630712,3.0378751
+Europe/Madrid
+01:00
+12.00
+aigua
+futbol
+celebracio
+estultura
+art
+*
+April 1 - September 30: 09:00-20:00
+October 1 - October 31: 09:00-19:00
+March 1 - March 31: 09:00-19:00
+November 1 - February 29: 09:00-18:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+lloc visitable
+Coliseu Roma
+41.9630712,3.0378751
+Europe/Madrid
+01:00
+12.00
+romans
+celebracio
+estultura
+historia
+art
+*
+April 1 - September 30: 09:00-20:00
+October 1 - October 31: 09:00-19:00
+March 1 - March 31: 09:00-19:00
+November 1 - February 29: 09:00-18:00
+December 25: 09:00-14:00
+December 26: 09:00-14:00
+January 1: 09:00-14:00
+January 6: 09:00-14:00
+*
+allotjament
+Westin Palace Madrid
+41.9630712,3.0378751
+Europe/Madrid
+luxe
+65
+vistes
+jacuzzi
+piscina
+relax
+*
+allotjament
+Hotel-Pizzeria "La Vita"
+41.9630712,3.0378751
+Europe/Madrid
+luxe
+65
+vistes
+jacuzzi
+piscina
+relax
+menjar
+pizza
+*
+transport directe
+Sagrada Familia
+La Cibeles
+Avioneta
+05:55
+44.35
+*
+transport directe
+Sagrada Familia
+Port Olimpic
+Tramvia
+00:35
+2.40
+*
+transport directe
+Sagrada Familia
+Cul de la Lleona
+Bus
+01:35
+9.55
+*
+transport directe
+Sagrada Familia
+Coliseu Roma
+Creuer
+07:12
+120.50
+*
+transport directe
+Sagrada Familia
+Moscow Marriott Grand Hotel
+Helicopter
+05:35
+180.50
+*
+transport directe
+Moscow Marriott Grand Hotel
+Plaça Roja
+Taxi
+01:00
+10.75
+*
+transport directe
+Moscow Marriott Grand Hotel
+Plaça Roja
+Taxi
+01:00
+10.75
+*
+transport directe
+Moscow Marriott Grand Hotel
+Coliseu Roma
+Avio
+08:00
+99.99
+*
+transport directe
+Cul de la Lleona
+Fonda Pilar
+Bus
+01:12
+35.40
+*
+transport directe
+Fonda Pilar
+Terracotta Museu
+Bus
+01:12
+35.40
+*
+transport directe
+Fonda Pilar
+Terracotta Museu
+Bus
+01:12
+35.40
+*
+transport directe
+Coliseu Roma
+Hotel-Pizzeria "La Vita"
+Bus
+00:20
+5.12
+*
+transport directe
+Cul de la Lleona
+Hotel Can Pistraus
+Bus
+00:20
+2.40
+*
+transport directe
+La Cibeles
+Westin Palace Madrid
+Bus
+00:20
+5.12
+*
+transport directe
+Westin Palace Madrid
+Coliseu Roma
+Bus
+09:12
+55.40
+*
+transport directe
+Westin Palace Madrid
+Passeig Marimon Asprer
+Bus
+04:35
+35.40
+*
+transport directe
+Port Olimpic
+Cul de la Lleona
+Bus
+01:35
+12.40
+*
+transport directe
+La Cibeles
+Sagrada Familia
+Avioneta
+05:55
+44.35
+*
+transport directe
+Port Olimpic
+Sagrada Familia
+Tramvia
+00:35
+2.40
+*
+transport directe
+Cul de la Lleona
+Sagrada Familia
+Bus
+01:35
+9.55
+*
+transport directe
+Coliseu Roma
+Sagrada Familia
+Creuer
+07:12
+120.50
+*
+transport directe
+Moscow Marriott Grand Hotel
+Sagrada Familia
+Helicopter
+05:35
+180.50
+*
+transport directe
+Plaça Roja
+Moscow Marriott Grand Hotel
+Taxi
+01:00
+10.75
+*
+transport directe
+Plaça Roja
+Moscow Marriott Grand Hotel
+Taxi
+01:00
+10.75
+*
+transport directe
+Coliseu Roma
+Moscow Marriott Grand Hotel
+Avio
+08:00
+99.99
+*
+transport directe
+Fonda Pilar
+Cul de la Lleona
+Bus
+01:12
+35.40
+*
+transport directe
+Terracotta Museu
+Fonda Pilar
+Bus
+01:12
+35.40
+*
+transport directe
+Terracotta Museu
+Fonda Pilar
+Bus
+01:12
+35.40
+*
+transport directe
+Hotel-Pizzeria "La Vita"
+Coliseu Roma
+Bus
+00:20
+5.12
+*
+transport directe
+Hotel Can Pistraus
+Cul de la Lleona
+Bus
+00:20
+2.40
+*
+transport directe
+Westin Palace Madrid
+La Cibeles
+Bus
+00:20
+5.12
+*
+transport directe
+Coliseu Roma
+Westin Palace Madrid
+Bus
+09:12
+55.40
+*
+transport directe
+Passeig Marimon Asprer
+Westin Palace Madrid
+Bus
+04:35
+35.40
+*
+transport directe
+Cul de la Lleona
+Port Olimpic
+Bus
+01:35
+12.40
+*
+transport directe
+Westin Palace Madrid
+Port Olimpic
+Bus
+03:35
+22.40
+*
+transport directe
+Port Olimpic
+Westin Palace Madrid
+Bus
+03:35
+22.40
+*
+transport directe
+Plaça Roja
+Cul de la Lleona
+Bus
+07:35
+22.40
+*
+transport directe
+Cul de la Lleona
+Plaça Roja
+Bus
+07:35
+22.40
+*
+viatge
+2017-04-11
+08:00
+10
+5000
+luxe
+Roger Generoso Masós
+Amat Martínez Vilà
+Adrià Orellana Cruañas
+*
+Sagrada Familia
+Passeig Marimon Asprer
+Plaça Roja
+Cul de la Lleona
+La Cibeles
+Coliseu Roma
+Port Olimpic
+*
+ruta barata
+ruta satisfactoria
+ruta curta
+*
