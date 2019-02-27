@@ -1,0 +1,7 @@
+<map id="CalculadorRutes.camiMinim" name="CalculadorRutes.camiMinim">
+<area shape="rect" id="node2" href="$class_ruta.html#ad3b2ba0de53d8f029a48810fcdfd51a6" title="Ruta.assignarHoraIni" alt="" coords="263,5,409,32"/>
+<area shape="rect" id="node3" href="$class_comanda.html#aa7147497e5e4707fe126e7a98de4ad98" title="Comanda.obtDataHoraInici" alt="" coords="246,56,426,83"/>
+<area shape="rect" id="node4" href="$class_comanda.html#a3684fe4f4a1d325ffcb9655de62bfda4" title="Comanda.obtLlocsIntermitjos" alt="" coords="240,107,432,133"/>
+<area shape="rect" id="node5" href="$class_comanda.html#a25859cf216e2b07d7c0b82a3abfbf88a" title="Comanda.obtFi" alt="" coords="281,157,391,184"/>
+<area shape="rect" id="node6" href="$class_comanda.html#aaa203aee1511327ad36a6b1941fa2c83" title="Comanda.obtInici" alt="" coords="274,208,398,235"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="DadesAgencia.llegirDadesFitxer" name="DadesAgencia.llegirDadesFitxer">
+<area shape="rect" id="node2" href="$class_destinacio.html#a14255149024d8184055da145d0a083af" title="Destinacio.afegirPuntInteres" alt="" coords="243,5,429,32"/>
+<area shape="rect" id="node3" href="$class_punt_interes.html#abb000885e7ac959de0656a98e962d688" title="PuntInteres.associarADestinacio" alt="" coords="229,56,443,83"/>
+<area shape="rect" id="node4" href="$class_destinacio.html#abe63cea06bae2ec20ea675ca466a4cbf" title="Destinacio.assignarTransport\lPublic" alt="" coords="240,107,432,149"/>
+<area shape="rect" id="node5" href="$class_destinacio.html#a8fafef096c79797799ccf2e1f66a1700" title="Destinacio.afegirNovaSortida\lIndirecta" alt="" coords="240,173,432,214"/>
+<area shape="rect" id="node7" href="$class_comanda.html#a8e8dc6ac0839afb91749cef59a0623ba" title="Comanda.afegirRuta" alt="" coords="265,239,407,265"/>
+<area shape="rect" id="node8" href="$class_destinacio.html#a72f37e68d213566c865915cc728d9d80" title="Destinacio.nPuntsInteres" alt="" coords="251,289,421,316"/>
+<area shape="rect" id="node6" href="$class_estacio.html#aa886df579a92b8d8cf6306c780a45a35" title="Estacio.afegirTransport" alt="" coords="491,180,648,207"/>
+</map>

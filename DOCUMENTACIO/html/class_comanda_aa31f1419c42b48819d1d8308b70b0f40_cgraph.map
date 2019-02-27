@@ -1,0 +1,6 @@
+<map id="Comanda.calculaSatisfaccio" name="Comanda.calculaSatisfaccio">
+<area shape="rect" id="node2" href="$class_punt_interes.html#a7f5c3ea87d7d05b640a536359fdb403a" title="PuntInteres.obtenirCaracteristiques" alt="" coords="241,5,468,32"/>
+<area shape="rect" id="node3" href="$class_client.html#a0e0d221f111e85f0e983618a2e893eec" title="Client.obtenirPreferencies" alt="" coords="269,56,441,83"/>
+<area shape="rect" id="node4" href="$class_client.html#a936ff145bf819ebbdb01ae293f470fac" title="Client.jaVisitat" alt="" coords="301,107,408,133"/>
+<area shape="rect" id="node5" href="$class_lloc.html#a1c597262a49c1fd62606dafc2fed0658" title="Lloc.obtNom" alt="" coords="307,157,403,184"/>
+</map>
